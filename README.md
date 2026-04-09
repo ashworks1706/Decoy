@@ -1,5 +1,8 @@
 # PhishGuard 360 - Advanced Email Security System
 
+<img width="2100" height="782" alt="image" src="https://github.com/user-attachments/assets/28c46390-7340-4d69-9616-259e0cfc7b8f" />
+
+
 ## 🎯 Project Overview
 
 A sophisticated multi-layer email phishing detection system that combines:
